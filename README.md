@@ -1,5 +1,5 @@
 ---
-title: "Slidify"
+title: "English Note"
 author: "fallsit"
 date: "Oct 30, 2017"
 output:
@@ -18,8 +18,20 @@ editor_options:
 
 ## efjiej
 
-This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute code within the notebook, the results appear beneath the code. 
+Man can climb to the highest summit, but  he cannot  dwell there long - George Bernard Shaw
 
-Try executing this chunk by clicking the *Run* button within the chunk or by placing your cursor inside it and pressing *Cmd+Shift+Enter*. 
+---
 
-## fjofi
+I don???t want the fear of failure to stop me from doing what I really care about - Emma Watson
+
+---
+
+Be yourself; everyone else is already taken. - Oscar Wilde
+
+---
+
+Where there???s a will, there???s a way
+
+---
+
+
